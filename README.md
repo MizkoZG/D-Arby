@@ -1,1 +1,2 @@
-Juguen un juego de cartas y vean si pueden ganar más dinero, Mr.Joestar
+Veamos si pueden con un juego de cartas, tener lo necesario para tener habilidad y ganar algo de dinero.
+Go Ahead, Mr.Joestar!
